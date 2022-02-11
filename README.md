@@ -1,2 +1,2 @@
-# Projects_Trybe
-Projetos durante o curso da Trybe!
+# Project Shopping Cart
+Feito durante o curso da Trybe!
