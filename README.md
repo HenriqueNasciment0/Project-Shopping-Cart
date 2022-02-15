@@ -1,2 +1,2 @@
-# Project Shopping Cart
-Feito durante o curso da Trybe!
+# Projects Curso Trybe.
+Feitos durante o curso da Trybe!
